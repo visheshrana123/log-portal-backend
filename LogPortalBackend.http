@@ -1,0 +1,6 @@
+@LogPortalBackend_HostAddress = http://localhost:5218
+
+GET {{LogPortalBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
